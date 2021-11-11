@@ -1,9 +1,15 @@
-# UFOs
-University of Toronto, Data Analytics Bootcamp powered by Trinity Education Services. Module 11: UFO Sightings with JavaScript
+# UFO Analysis Challenge
+Module 11: UFO Sightings with JavaScript
+
+## Resources
+
+- Softwares Utilized:
+1. Visual Studio Code
+2. JavaScript ES6
 
 ## Purpose and Overview 
 
-BackgroundDana’s webpage and dynamic table are working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, you’ll add table filters for the city, state, country, and shape.
+Background: Dana’s webpage and dynamic table are working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, you’ll add table filters for the city, state, country, and shape.
 
 What You're Creating
 This new assignment consists of one technical analysis deliverable and a written report. You will submit the following deliverables:
