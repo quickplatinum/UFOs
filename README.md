@@ -1,9 +1,8 @@
 # UFO Analysis Challenge
 Module 11: UFO Sightings with JavaScript
 
-## Resources
+## Resources and Softwares Utilized
 
-- Softwares Utilized:
 1. Visual Studio Code
 2. JavaScript ES6
 
