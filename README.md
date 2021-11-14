@@ -22,9 +22,11 @@ The deliverables for the assignment are as follows:
 - Anyone can use the website when clicking in there is a short description about the data within the website, and the filters are clearly visible and each criterion can be filtered, the user can see the filter search heading. and the data broken up into the fields on the right.
 
 - Seen below in the image attached is the updated website, adding a few filters to better assist users find specific data, the new filter includes Date, City, State and Country to name a few.
+
 ![Filters](https://user-images.githubusercontent.com/88692025/141701610-303a06fb-8326-4fa0-b32d-58a27c94bacc.PNG)
 
 - For example, we can check that the filters are working, a search below for the data on January 6th, 2010, in the state of California. We can also see that the code is working upon the user input of enter instead of clicking which was intended.
+
 ![Filters CA](https://user-images.githubusercontent.com/88692025/141701683-c351d9af-a928-4a1a-a29d-264cc9a24140.PNG)
 
 ## Summary
