@@ -1,4 +1,4 @@
-# UFO Data Visualization Challenge
+# UFO Wesbite Visualization Challenge
 Module 11: UFO Sightings with JavaScript
 
 ## Resources and Software’s Utilized
